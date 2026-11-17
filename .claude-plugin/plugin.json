@@ -1,0 +1,7 @@
+{
+  "name": "read-thumbnails",
+  "version": "0.1.0",
+  "description": "Draws a small thumbnail under each image the Read tool reads, with a button to open it full size",
+  "author": { "name": "tomarsnap" },
+  "license": "MIT"
+}

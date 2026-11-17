@@ -1,0 +1,16 @@
+{
+  "name": "read-thumbnails",
+  "owner": {
+    "name": "tomarsnap"
+  },
+  "plugins": [
+    {
+      "name": "read-thumbnails",
+      "source": "./",
+      "description": "Draws a small thumbnail under each image the Read tool reads, with a button to open it full size"
+    }
+  ],
+  "metadata": {
+    "description": "Thumbnails of images Claude Code reads, drawn inline in the terminal"
+  }
+}
